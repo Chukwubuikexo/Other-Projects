@@ -1,7 +1,7 @@
 # My Portfolio
 
-<p align="center"> 
-<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg" width="400px" height="300px" />
+<p align="left"> 
+<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg" width="400px" height="400px" />
 </p> )
 
 Hello, I am Mbanefo Benedict Chibuike
