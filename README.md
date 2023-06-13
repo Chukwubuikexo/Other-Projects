@@ -2,7 +2,7 @@
 
 <p align="left"> 
 <img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg" width="400px" height="400px" />
-</p> )
+</p>
 
 Hello, I am Mbanefo Benedict Chibuike
 
