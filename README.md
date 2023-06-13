@@ -1,8 +1,11 @@
 # My Portfolio
 
-![](https://github.com/EdidiongEsu/portfolio/blob/master/img/Capture.PNG)
-Hi, my name is Edidiong Esu.
-I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
+![]()
+
+Hello, I am Mbanefo Benedict Chibuike
+
+I am passionate about data due to its enigmatic nature which fuels my curiosity. I firmly believe that behind every dataset lies an abundance of untapped knowledge which can change the world. One of my defining qualities is my unwavering dedication to continuous learning, constantly seeking new insights and expanding my horizons. When I'm not immersed in the world of data, you can find me indulging in my hobbies, which include football, music, leisure reading, and movies.
+
 ## My Writing
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
 I write because i love to tell stories. For most projects, I make it a priority to put my findings in writing hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publication in the world hosted on Medium. [Here](https://towardsdatascience.com/@eddy.esu.22) is my profile. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles with great data insights.
