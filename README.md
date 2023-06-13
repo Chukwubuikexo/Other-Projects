@@ -6,9 +6,9 @@ Hello, I am Mbanefo Benedict Chibuike
 
 I am passionate about data due to its enigmatic nature which fuels my curiosity. I firmly believe that behind every dataset lies an abundance of untapped knowledge which can change the world. One of my defining qualities is my unwavering dedication to continuous learning, constantly seeking new insights and expanding my horizons. When I'm not immersed in the world of data, you can find me indulging in my hobbies, which include football, music, leisure reading, and movies.
 
-## My Writing
+##My Past Projects
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
-I write because i love to tell stories. For most projects, I make it a priority to put my findings in writing hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publication in the world hosted on Medium. [Here](https://towardsdatascience.com/@eddy.esu.22) is my profile. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles with great data insights.
+ Exploratory Data Analysis of Real Time Uber Data. Check [here]([https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb]).
 ## My Past Projects
 ---
 ### [Car Image Prediction service using deep learning](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one)
