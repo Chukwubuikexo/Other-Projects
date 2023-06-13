@@ -8,8 +8,7 @@ I am passionate about data due to its enigmatic nature which fuels my curiosity.
 
 ## My Past Projects
 ---
-### [Exploratory Data Analysis of Real Time Uber Data]([https://github.com/EdidiongEsu/genre_NLP](https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb))
-
+### [Exploratory Data Analysis of Real Time Uber Data](https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb)
 
 <p align="center"> 
 <img src="[https://github.com/Chukwubuikexo/Portfolio/blob/main/images/EDA%20img.jpg"]/>
