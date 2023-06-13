@@ -1,6 +1,6 @@
 # My Portfolio
 
-![](https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg)
+![](https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg "width="400px" height="300px")
 
 Hello, I am Mbanefo Benedict Chibuike
 
