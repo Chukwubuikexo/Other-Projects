@@ -8,18 +8,21 @@ I am passionate about data due to its enigmatic nature which fuels my curiosity.
 
 ## My Past Projects
 ---
-### [Exploratory Data Analysis of Real Time Uber Data](https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb)
+### [Exploratory Data Analysis of Real Time Uber Data](https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb) A deep dive into the insights provided by recorded uber rides
+
 
 <p align="center"> 
-<img src="[https://github.com/Chukwubuikexo/Portfolio/blob/main/images/EDA%20img.jpg"]/>
+<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/EDA%20img.jpg" />
 </p>
 
-I analyzed blurbs of over a million words to check for similarity between genres. A blurb is a short (usually about 200 words) description of a book written for promotional purposes. I ascertained if blurbs are accurate representations of whole books by checking for frequencies of words in each genre. Deductions were made which gave an insight into the writing style of african literature. The data used in this repository was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). 
+This project focuses on exploratory data analysis of real-time Uber data. I analyzed the data, providing valuable insights on ride patterns, peak hours, etc. This analysis can assist in optimizing operations, improving efficiency, and enhancing the overall user experience in the Uber ecosystem.
 
-[Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
+[Data Cleaning on Clinical Dataset](https://github.com/Chukwubuikexo/Clinical_data_test/blob/main/Clinical_data_test.ipynb) Thorough cleaning and transformation of a dirty dataset
     
-   
- November 2019
+<p align="center"> 
+<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/EDA%20img.jpg" />
+</p>
+
   
   ---
  ### [Scraping and analyzing of okadabooks](https://github.com/EdidiongEsu/analyzing_okadabooks)
