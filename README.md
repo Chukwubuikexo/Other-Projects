@@ -2,17 +2,17 @@
 
 ![](https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg)
 
-Hi, my name is Edidiong Esu.
+Hello, I am Mbanefo Benedict Chibuike
 
-I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
+I am passionate about data due to its enigmatic nature which fuels my curiosity. I firmly believe that behind every dataset lies an abundance of untapped knowledge which can change the world. One of my defining qualities is my unwavering dedication to continuous learning, constantly seeking new insights and expanding my horizons. When I'm not immersed in the world of data, you can find me indulging in my hobbies, which include football, music, leisure reading, and movies.
 
 ## My Past Projects
 ---
-### [Similarity between Genres by analyzing 1.12Million words contained in blurbs using Natural Language Processing](https://github.com/EdidiongEsu/genre_NLP)
+### [Exploratory Data Analysis of Real Time Uber Data]([https://github.com/EdidiongEsu/genre_NLP](https://github.com/Chukwubuikexo/EDA-ON-UBER-DATA/blob/main/Uber_Data.ipynb))
 
 
 <p align="center"> 
-<img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/common_nlp_gif.gif" />
+<img src="[https://github.com/Chukwubuikexo/Portfolio/blob/main/images/EDA%20img.jpg"]/>
 </p>
 
 I analyzed blurbs of over a million words to check for similarity between genres. A blurb is a short (usually about 200 words) description of a book written for promotional purposes. I ascertained if blurbs are accurate representations of whole books by checking for frequencies of words in each genre. Deductions were made which gave an insight into the writing style of african literature. The data used in this repository was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). 
