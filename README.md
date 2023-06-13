@@ -1,6 +1,6 @@
 # My Portfolio
 
-![]()
+![](https://github.com/Chukwubuikexo/Portfolio/blob/main/images/LinkedIN%20DP.jpeg)
 
 Hi, my name is Edidiong Esu.
 
