@@ -53,7 +53,7 @@ I built a model aimed to leverage the collective strength of three different alg
 Interactive and self-explanatory visualizations generated to communicate clear insights to consumers.
 
 <p align="center"> 
-<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/tableau%20icon.png"/>
+<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/tableau%20icon.png" />
 </p>
 
 t
