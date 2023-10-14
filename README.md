@@ -49,15 +49,14 @@ An end-to-end model built to predict heart disease using K-Neighbors Classifier,
 
 I built a model aimed to leverage the collective strength of three different algorithms to enhance prediction accuracy and provide valuable insights on healthcare data of over 300 entries. This model utilized three model,  K-Neighbors Classifier, Logistic Regression, and Random Forest Classifier, and evaluators such as confusion_matrix, classification_reportt precision_score, recall_score, f1_score
 
-### [Tableau - Data Visualization Projects](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+### [Tableau - Data Visualization Projects](https://public.tableau.com/app/profile/mbanefo/vizzes)
 Interactive and self-explanatory visualizations generated to communicate clear insights to consumers.
 
 <p align="left"> 
 <img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/tableau%20icon.png" width="600px" height="400px" />
 </p>
 
-t
-
+With an emphasis on interactivity, these visualization provide actionable insights for decision-making, while also highlighting the importance of effective data visualization and analytics in shaping business strategies. These portfolio pieces showcases the transformation of raw data into a powerful decision-support tool, underlining proficiency in Tableau and data analysis skills.
 ---
 ## Mini-Projects
 * Unleashing the Power of Exploratory Data Analysis on [Medium](https://chukwubuikexo.medium.com/unleashing-the-power-of-exploratory-data-analysis-fd00298119ad).
