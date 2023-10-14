@@ -52,7 +52,7 @@ I built a model aimed to leverage the collective strength of three different alg
 ### [Tableau - Data Visualization Projects](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
 Interactive and self-explanatory visualizations generated to communicate clear insights to consumers.
 
-<p align="center"> 
+<p align="left"> 
 <img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/tableau%20icon.png" width="600px" height="400px" />
 </p>
 
