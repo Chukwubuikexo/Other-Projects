@@ -55,7 +55,9 @@ Interactive and self-explanatory visualizations generated to communicate clear i
 <p align="left"> 
 <img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/tableau%20icon.png" width="600px" height="400px" />
 </p>
+
 With an emphasis on interactivity, these visualization provide actionable insights for decision-making, while also highlighting the importance of effective data visualization and analytics in shaping business strategies. These portfolio pieces showcases the transformation of raw data into a powerful decision-support tool, underlining proficiency in Tableau and data analysis skills.
+
 ---
 ## Mini-Projects
 * Unleashing the Power of Exploratory Data Analysis on [Medium](https://chukwubuikexo.medium.com/unleashing-the-power-of-exploratory-data-analysis-fd00298119ad).
