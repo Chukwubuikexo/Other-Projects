@@ -40,7 +40,7 @@ Predicting the percentage of a student with the number of hours studied.
 In this project, I built a model to predict the percentage of a student based on the number of hours studied. The data is analyzed using regression techniques to establish a relationship between study hours and percentage. The model undergoes training and testing phases to accurately predict the percentage for new students based on their study hours. By leveraging linear regression analysis, developed valuable insights into the impact of study hours on academic performance.
 
  
-### [Predicting Heart Disease](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+### [Predicting Heart Disease](https://github.com/Chukwubuikexo/Predicting-heart-disease-with-ML/blob/main/end-to-end-heart-disease-classification.ipynb)
 An end-to-end model built to predict heart disease using K-Neighbors Classifier, Logistic Regression, and Random Forest Classifier.
 
 <p align="left"> 
