@@ -49,6 +49,14 @@ An end-to-end model built to predict heart disease using K-Neighbors Classifier,
 
 I built a model aimed to leverage the collective strength of three different algorithms to enhance prediction accuracy and provide valuable insights on healthcare data of over 300 entries. This model utilized three model,  K-Neighbors Classifier, Logistic Regression, and Random Forest Classifier, and evaluators such as confusion_matrix, classification_reportt precision_score, recall_score, f1_score
 
+### [Tableau - Data Visualization Projects](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+Interactive and self-explanatory visualizations generated to communicate clear insights to consumers.
+
+<p align="center"> 
+<img src="https://github.com/Chukwubuikexo/Portfolio/blob/main/images/Heart%20disease.jpg"/>
+</p>
+
+t
 
 ---
 ## Mini-Projects
