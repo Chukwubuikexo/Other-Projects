@@ -1,4 +1,4 @@
-# Other Projects - Tableau, Microsoft Excel
+# Other Projects(https://drive.google.com/drive/folders/12vV7KgvrQjefN7ozDUV83qZpBZkpeYnm?usp=sharing) - Tableau, Microsoft Excel, PowerBI
 
 I am passionate about data due to its enigmatic nature which fuels my curiosity. I firmly believe that behind every dataset lies an abundance of untapped knowledge which can change the world. One of my defining qualities is my unwavering dedication to continuous learning, constantly seeking new insights and expanding my horizons. When I'm not immersed in the world of data, you can find me indulging in my hobbies, which include football, music, leisure reading, and movies.
  
